@@ -1,0 +1,5 @@
+T:\meusArquivos\aleatorioCpp\TelaLogin\x64\Debug\TelaLogin.vcxproj.AssemblyReference.cache
+T:\meusArquivos\aleatorioCpp\TelaLogin\x64\Debug\TelaLogin.vcxproj.SuggestedBindingRedirects.cache
+T:\meusArquivos\aleatorioCpp\TelaLogin\x64\Debug\TelaLogin.Login.resources
+T:\meusArquivos\aleatorioCpp\TelaLogin\x64\Debug\TelaLogin.vcxproj.GenerateResource.cache
+T:\meusArquivos\aleatorioCpp\TelaLogin\x64\Debug\TelaLogin.exe
